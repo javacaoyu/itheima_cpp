@@ -1,0 +1,17 @@
+cmake_minimum_required(VERSION 3.26)
+project(C__)
+
+set(CMAKE_CXX_STANDARD 17)
+
+
+add_executable(C__ main.cpp
+        01_第一章_数据类型、运算符和表达式/aaa.cpp
+        01_第一章_数据类型、运算符和表达式/aaa.cpp
+        01_第一章_数据类型、运算符和表达式/aaa.cpp
+        01_第一章_数据类型、运算符和表达式/aaa.cpp
+        01_第一章_数据类型、运算符和表达式/aaa.cpp
+        01_第一章_数据类型、运算符和表达式/aaa.cpp
+        01_第一章_数据类型、运算符和表达式/aaa.cpp
+        01_第一章_数据类型、运算符与表达式/字面常量.cpp
+        01_第一章_数据类型、运算符与表达式/符号常量.cpp
+)
