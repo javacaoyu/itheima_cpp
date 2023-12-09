@@ -5,6 +5,7 @@ using namespace std;
 
 int main()
 {
-
+    int money = 50;
+    pri
     return 0;
 }
