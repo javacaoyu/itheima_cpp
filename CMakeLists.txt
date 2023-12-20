@@ -19,4 +19,8 @@ add_executable(C__ main.cpp
         01_第一章_数据类型、运算符与表达式/转义字符.cpp
         other_tmp/tmp.cpp
         01_第一章_数据类型、运算符与表达式/字符串数据类型.cpp
+        01_第一章_数据类型、运算符与表达式/cin数据输入.cpp
+        01_第一章_数据类型、运算符与表达式/cin数据输入练习题.cpp
+        other_tmp/tmp2.cpp
+        01_第一章_数据类型、运算符与表达式/cin中文乱码解决演示代码.cpp
 )
