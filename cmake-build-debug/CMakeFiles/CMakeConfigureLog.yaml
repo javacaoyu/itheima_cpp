@@ -178,3 +178,13 @@ events:
       - "CMakeLists.txt:2 (project)"
     message: |
       The system is: Windows - 10.0.19045 - AMD64
+
+---
+events:
+  -
+    kind: "message-v1"
+    backtrace:
+      - "D:/software/JetBrains/CLion 2023.2.2/bin/cmake/win/x64/share/cmake-3.27/Modules/CMakeDetermineSystem.cmake:211 (message)"
+      - "CMakeLists.txt:2 (project)"
+    message: |
+      The system is: Windows - 10.0.19045 - AMD64
