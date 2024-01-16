@@ -4,17 +4,13 @@ using namespace std;
 
 int main()
 {
-    int love;
-    cout << "小美你喜欢我吗？喜欢扣1，不喜欢扣0！" << endl;
-    cin >> love;
+    enum Love{
+        LOVE,
+        NORMAL,
+        HIT
+    };
 
-    if (love)
-    {
-        cout << "小美我也喜欢你！！！";
-    }
-    else
-    {
-        cout << "伤心！！！我去追求小新去，哼。";
-    }
+    int v;
+    cin >> v;
     return 0;
 }
